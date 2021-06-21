@@ -4,6 +4,10 @@ Codewell's aim is to provide you with real-world design templates that you can u
 
 Free or paid, all templates are high quality and will make great portfolio pieces.
 
+### Author
+
+- John Martin De Guia
+
 ### Challenge Link
 
 - [Spense Landing Page](https://www.codewell.cc/challenges/608a7a859691700015db16c5) - Spense is a landing page for writers. Great for practicing absolute positioning and flex layouts.
