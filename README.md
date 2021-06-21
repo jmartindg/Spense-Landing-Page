@@ -10,7 +10,7 @@ Free or paid, all templates are high quality and will make great portfolio piece
 
 ### Fonts Used
 
-https://fonts.google.com/specimen/Cabin
+- https://fonts.google.com/specimen/Cabin
 
 ### Built With
 
@@ -23,7 +23,7 @@ https://fonts.google.com/specimen/Cabin
 
 We recommend using one of these two websites to deploy your projects
 
-- [GitHub Pages](https://pages.github.com/) - the one that i used for this project
-- [Netlify](https://www.netlify.com/)
+- [GitHub Pages](https://pages.github.com/)
+- [Netlify](https://www.netlify.com/) - the one that i used for this project
 
 They're super easy to setup and you should have your website up and running in no time, just follow their instructions.
