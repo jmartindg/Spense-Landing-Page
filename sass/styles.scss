@@ -582,6 +582,14 @@ footer {
   }
 }
 
+@media only screen and (max-width: 405px) {
+  .learn-more-grid {
+    img {
+      right: -2rem !important;
+    }
+  }
+}
+
 @media only screen and (max-width: 381px) {
   .learn-more-grid {
     height: 100vh !important;
