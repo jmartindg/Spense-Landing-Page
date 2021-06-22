@@ -446,7 +446,7 @@ footer {
   .learn-more-grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr;
-    height: 130vh !important;
+    height: 110vh !important;
     margin-left: 2rem !important;
     margin-right: 2rem !important;
 
@@ -479,7 +479,55 @@ footer {
   }
 }
 
+@media only screen and (max-width: 757px) {
+  .learn-more-grid {
+    height: 115vh !important;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .learn-more-grid {
+    height: 110vh !important;
+
+    img {
+      right: 1rem !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 584px) {
+  .learn-more-grid {
+    img {
+      right: -0.2rem !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 525px) {
+  .learn-more-grid {
+    height: 105vh !important;
+    padding-top: 5rem !important;
+
+    img {
+      width: 900px;
+      right: 0.1rem !important;
+    }
+  }
+}
+
 // Mobile
+@media only screen and (max-width: 469px) {
+  .learn-more-grid {
+    height: 105vh !important;
+    padding-top: 4rem !important;
+
+    img {
+      width: 800px;
+      right: -0.1rem !important;
+    }
+  }
+}
+
 @media only screen and (max-width: 425px) {
   .mobile-menu {
     .mobile-cta-nav {
@@ -513,16 +561,16 @@ footer {
   }
 
   .learn-more-grid {
-    height: 125vh !important;
+    height: 100vh !important;
     padding-top: 3rem !important;
 
     h3 {
-      font-size: 1.4rem !important;
+      font-size: 1.7rem !important;
     }
 
     img {
       width: 800px !important;
-      right: -1rem !important;
+      right: -1.3rem !important;
     }
   }
 
@@ -530,6 +578,26 @@ footer {
     p {
       padding-left: 1.3rem;
       padding-right: 1.3rem;
+    }
+  }
+}
+
+@media only screen and (max-width: 381px) {
+  .learn-more-grid {
+    height: 100vh !important;
+
+    img {
+      width: 700px !important;
+    }
+  }
+}
+
+@media only screen and (max-width: 387px) {
+  .learn-more-grid {
+    height: 108vh !important;
+
+    img {
+      width: 720px !important;
     }
   }
 }
@@ -576,6 +644,24 @@ footer {
   }
 }
 
+@media only screen and (max-width: 344px) {
+  .learn-more-grid {
+    height: 96vh !important;
+
+    h3 {
+      font-size: 1.3rem !important;
+    }
+
+    p {
+      font-size: 1rem !important;
+    }
+
+    img {
+      width: 660px !important;
+    }
+  }
+}
+
 @media only screen and (max-width: 320px) {
   .left {
     .form {
@@ -593,7 +679,7 @@ footer {
   }
 
   .learn-more-grid {
-    height: 150vh !important;
+    height: 100vh !important;
 
     img {
       width: 600px !important;
